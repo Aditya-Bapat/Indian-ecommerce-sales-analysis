@@ -39,6 +39,3 @@ The dashboard explores several business questions:
 - Geographic sales distribution across India
 - Discount vs revenue analysis
 - Customer demographic insights
-## Author
-
-Aditya Bapat
